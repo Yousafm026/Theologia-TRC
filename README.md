@@ -1,2 +1,2 @@
 # Theologia-TRC
-A theological research center application for biblical search and study designed for seminary students
+A theological research center application for biblicalresearch and study designed for seminary students and the laity missionaries for advanced studies project for teaching services through the theologia school along with the combination of Estudio biblica for biblical studies and biblical languages interpretation through the biblical theology explained in the bible verses from microcosm world 🌍 to the macrocosm reality and existence of life 
